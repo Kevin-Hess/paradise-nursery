@@ -1,0 +1,11 @@
+.about-us {
+    max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-us p {
+    font-size: 1.1rem;
+  line-height: 1.6;
+  color: #f0f0f0;
+  }
